@@ -447,6 +447,8 @@ var agentArray = [],
 
 // Function to create the simulation using the given options set
 function initSim(options) {
+    var options = options || {};
+
     // Optional options within options ;) gridDimen, clusterSize, numAgents, numTypes, agentTypeDistr
     var gridDimen = options.gridDimen || {"x": 30, "y": 30},
         numAgents,
