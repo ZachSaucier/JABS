@@ -1,9 +1,9 @@
 Javascript Agent-Based Simulator (JABS)
 =======================================
 
-- ## [Demo](http://zachsaucier.com/procedural-agent-based-simulator.html)
-- ## [Full write-up](https://docs.google.com/document/d/1I0ctd1ReomhJovdmCn4UXSDG27eqVErH-VnQME4F0Tc/edit?usp=sharing)
-- ## [Slides](https://docs.google.com/presentation/d/1qOFQrXN6zwaQEadEYReTpSJjO1kMXYrFbFu_cvg6bF8/edit?usp=sharing) (paper summary)
+- [Demo](http://zachsaucier.com/procedural-agent-based-simulator.html)
+- [Full write-up](https://docs.google.com/document/d/1I0ctd1ReomhJovdmCn4UXSDG27eqVErH-VnQME4F0Tc/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1qOFQrXN6zwaQEadEYReTpSJjO1kMXYrFbFu_cvg6bF8/edit?usp=sharing) (paper summary)
 
 ### Introduction
 
