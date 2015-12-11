@@ -646,7 +646,7 @@ speedInput.onchange = function(e) {
 playPauseButton.onmouseup = togglePlayPause;
 
 // Optional options within options ;) gridDimen, clusterSize, numAgents, numTypes, agentTypeDistr
-initSim({"numAgents": 3, "numTypes": 3});
+initSim();
 showTypes();
 drawState();
 
